@@ -18,3 +18,4 @@ Activity at 2023-01-11T10:24:00: Refactor: simplify data transformation pipeline
 Activity at 2023-01-13T19:21:00: Refactor: simplify data transformation pipeline
 Activity at 2023-01-16T13:47:00: Style: improve code readability and formatting
 Activity at 2023-01-16T19:26:00: Refactor: simplify data transformation pipeline
+Activity at 2023-01-17T21:55:00: Test: add unit tests for edge cases
