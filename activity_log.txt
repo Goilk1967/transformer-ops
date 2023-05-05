@@ -216,3 +216,4 @@ Activity at 2023-05-04T19:01:00: Refactor: optimize performance in core module
 Activity at 2023-05-04T18:02:00: Refactor: simplify data transformation pipeline
 Activity at 2023-05-05T15:19:00: Refactor: optimize performance in core module
 Activity at 2023-05-05T21:10:00: Refactor: optimize performance in core module
+Activity at 2023-05-05T16:52:00: Docs: update API documentation and examples
