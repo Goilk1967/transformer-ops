@@ -263,3 +263,4 @@ Activity at 2023-05-30T15:40:00: Style: improve code readability and formatting
 Activity at 2023-05-30T15:33:00: Fix: resolve memory leak in inference engine
 Activity at 2023-05-31T18:27:00: Chore: update dependencies and build scripts
 Activity at 2023-05-31T19:42:00: Chore: update dependencies and build scripts
+Activity at 2023-05-31T10:56:00: Test: add unit tests for edge cases
