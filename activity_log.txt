@@ -308,3 +308,4 @@ Activity at 2023-07-05T12:36:00: Style: improve code readability and formatting
 Activity at 2023-07-05T12:33:00: Refactor: simplify data transformation pipeline
 Activity at 2023-07-06T12:02:00: Refactor: simplify data transformation pipeline
 Activity at 2023-07-06T10:51:00: Refactor: simplify data transformation pipeline
+Activity at 2023-07-06T15:55:00: Test: add unit tests for edge cases
