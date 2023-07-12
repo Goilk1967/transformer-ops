@@ -315,3 +315,4 @@ Activity at 2023-07-07T17:22:00: Feature: add support for distributed processing
 Activity at 2023-07-10T14:11:00: Docs: update API documentation and examples
 Activity at 2023-07-10T19:10:00: Docs: update API documentation and examples
 Activity at 2023-07-10T18:54:00: Feature: add support for distributed processing
+Activity at 2023-07-11T21:18:00: Fix: resolve memory leak in inference engine
