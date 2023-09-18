@@ -46,3 +46,4 @@ Fixed Activity at 2023-09-14T17:49:00: Update: internal model parameters
 Fixed Activity at 2023-09-14T14:45:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-15T18:43:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-09-15T13:24:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-18T11:43:00: Fix: resolve memory leak in inference engine
