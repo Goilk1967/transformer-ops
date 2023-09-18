@@ -48,3 +48,4 @@ Fixed Activity at 2023-09-15T18:43:00: Test: add unit tests for edge cases
 Fixed Activity at 2023-09-15T13:24:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-18T11:43:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-09-18T16:48:00: Test: add unit tests for edge cases
+Fixed Activity at 2023-09-18T12:22:00: Refine: inference logic for edge devices
