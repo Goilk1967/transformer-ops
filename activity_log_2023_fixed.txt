@@ -65,3 +65,4 @@ Fixed Activity at 2023-09-21T13:57:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-09-21T21:54:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-09-21T18:28:00: Docs: update API documentation and examples
 Fixed Activity at 2023-09-21T13:58:00: Optimize: data loading strategy
+Fixed Activity at 2023-09-21T18:55:00: Fix: resolve memory leak in inference engine
