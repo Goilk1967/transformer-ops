@@ -70,3 +70,4 @@ Fixed Activity at 2023-09-22T18:41:00: Improve: logging and monitoring system
 Fixed Activity at 2023-09-22T14:26:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-09-22T20:34:00: Optimize: data loading strategy
 Fixed Activity at 2023-09-22T21:26:00: Test: add unit tests for edge cases
+Fixed Activity at 2023-09-22T14:25:00: Refine: inference logic for edge devices
