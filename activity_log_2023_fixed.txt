@@ -138,3 +138,4 @@ Fixed Activity at 2023-10-16T14:32:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2023-10-17T21:08:00: Improve: logging and monitoring system
 Fixed Activity at 2023-10-17T16:54:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-10-17T11:15:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-10-17T09:34:00: Docs: update API documentation and examples
