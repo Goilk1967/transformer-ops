@@ -173,3 +173,4 @@ Fixed Activity at 2023-10-25T18:00:00: Improve: logging and monitoring system
 Fixed Activity at 2023-10-26T09:41:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-10-26T19:23:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-10-26T15:59:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-10-26T10:02:00: Docs: update API documentation and examples
