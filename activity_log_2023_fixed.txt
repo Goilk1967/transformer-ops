@@ -228,3 +228,4 @@ Fixed Activity at 2023-11-10T12:33:00: Optimize: data loading strategy
 Fixed Activity at 2023-11-10T10:51:00: Update: internal model parameters
 Fixed Activity at 2023-11-10T10:20:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-11-13T13:14:00: Docs: update API documentation and examples
+Fixed Activity at 2023-11-13T12:55:00: Chore: update dependencies and build scripts
