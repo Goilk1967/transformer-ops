@@ -283,3 +283,4 @@ Fixed Activity at 2023-11-23T18:01:00: Refactor: simplify data transformation pi
 Fixed Activity at 2023-11-23T19:21:00: Update: internal model parameters
 Fixed Activity at 2023-11-23T21:42:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-11-23T16:02:00: Refine: inference logic for edge devices
+Fixed Activity at 2023-11-23T16:41:00: Test: add unit tests for edge cases
