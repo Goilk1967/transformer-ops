@@ -304,3 +304,4 @@ Fixed Activity at 2023-11-29T17:19:00: Style: improve code readability and forma
 Fixed Activity at 2023-11-29T19:49:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-11-29T20:42:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-11-29T11:25:00: Style: improve code readability and formatting
+Fixed Activity at 2023-11-29T19:38:00: Optimize: data loading strategy
