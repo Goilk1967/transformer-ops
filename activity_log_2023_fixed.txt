@@ -318,3 +318,4 @@ Fixed Activity at 2023-12-05T15:02:00: Feature: add support for distributed proc
 Fixed Activity at 2023-12-05T20:12:00: Docs: update API documentation and examples
 Fixed Activity at 2023-12-05T18:23:00: Update: internal model parameters
 Fixed Activity at 2023-12-05T10:21:00: Improve: logging and monitoring system
+Fixed Activity at 2023-12-06T14:28:00: Test: add unit tests for edge cases
