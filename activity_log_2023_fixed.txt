@@ -361,3 +361,4 @@ Fixed Activity at 2023-12-18T12:49:00: Feature: add support for distributed proc
 Fixed Activity at 2023-12-18T19:19:00: Chore: update dependencies and build scripts
 Fixed Activity at 2023-12-18T10:33:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2023-12-18T19:48:00: Chore: update dependencies and build scripts
+Fixed Activity at 2023-12-18T09:25:00: Test: add unit tests for edge cases
