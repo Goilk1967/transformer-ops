@@ -370,3 +370,4 @@ Fixed Activity at 2023-12-20T18:18:00: Update: internal model parameters
 Fixed Activity at 2023-12-20T11:15:00: Refine: inference logic for edge devices
 Fixed Activity at 2023-12-20T21:19:00: Update: internal model parameters
 Fixed Activity at 2023-12-20T12:54:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-12-20T13:45:00: Refactor: simplify data transformation pipeline
