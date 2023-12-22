@@ -376,3 +376,4 @@ Fixed Activity at 2023-12-21T16:26:00: Style: improve code readability and forma
 Fixed Activity at 2023-12-21T15:19:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2023-12-21T15:16:00: Refactor: optimize performance in core module
 Fixed Activity at 2023-12-22T09:23:00: Refactor: optimize performance in core module
+Fixed Activity at 2023-12-22T15:28:00: Docs: update API documentation and examples
