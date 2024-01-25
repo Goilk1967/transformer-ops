@@ -47,3 +47,4 @@ Activity at 2024-01-24T10:11:00: Chore: update dependencies and build scripts
 Activity at 2024-01-24T18:15:00: Chore: update dependencies and build scripts
 Activity at 2024-01-24T18:20:00: Feature: add support for distributed processing
 Activity at 2024-01-24T13:10:00: Chore: update dependencies and build scripts
+Activity at 2024-01-24T20:41:00: Fix: resolve memory leak in inference engine
