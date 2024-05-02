@@ -1,2 +1,3 @@
 Fixed Activity at 2024-05-01T09:21:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-05-01T09:59:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-05-02T09:54:00: Refine: inference logic for edge devices
