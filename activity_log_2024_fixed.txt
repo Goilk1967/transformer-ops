@@ -38,3 +38,4 @@ Fixed Activity at 2024-05-10T09:14:00: Feature: add support for distributed proc
 Fixed Activity at 2024-05-13T10:29:00: Update: internal model parameters
 Fixed Activity at 2024-05-13T18:22:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-05-13T19:37:00: Style: improve code readability and formatting
+Fixed Activity at 2024-05-14T17:13:00: Optimize: data loading strategy
