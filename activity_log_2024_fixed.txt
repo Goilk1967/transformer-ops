@@ -73,3 +73,4 @@ Fixed Activity at 2024-05-22T11:57:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-05-22T16:47:00: Optimize: data loading strategy
 Fixed Activity at 2024-05-22T13:35:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-22T20:55:00: Improve: logging and monitoring system
+Fixed Activity at 2024-05-22T21:40:00: Fix: resolve memory leak in inference engine
