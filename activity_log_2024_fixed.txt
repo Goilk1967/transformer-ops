@@ -79,3 +79,4 @@ Fixed Activity at 2024-05-23T18:57:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-05-23T14:01:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-23T20:19:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-23T15:47:00: Test: add unit tests for edge cases
+Fixed Activity at 2024-05-23T12:23:00: Update: internal model parameters
