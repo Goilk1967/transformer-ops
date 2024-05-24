@@ -82,3 +82,4 @@ Fixed Activity at 2024-05-23T15:47:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-05-23T12:23:00: Update: internal model parameters
 Fixed Activity at 2024-05-23T15:09:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-24T20:48:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-24T16:01:00: Refine: inference logic for edge devices
