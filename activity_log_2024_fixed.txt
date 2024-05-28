@@ -92,3 +92,4 @@ Fixed Activity at 2024-05-27T19:17:00: Style: improve code readability and forma
 Fixed Activity at 2024-05-27T10:30:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-05-28T19:09:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-28T10:42:00: Style: improve code readability and formatting
+Fixed Activity at 2024-05-28T17:35:00: Test: add unit tests for edge cases
