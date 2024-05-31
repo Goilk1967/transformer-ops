@@ -104,3 +104,4 @@ Fixed Activity at 2024-05-30T17:52:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-30T13:38:00: Improve: logging and monitoring system
 Fixed Activity at 2024-05-30T12:04:00: Docs: update API documentation and examples
 Fixed Activity at 2024-05-30T12:49:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-05-31T11:09:00: Update: internal model parameters
