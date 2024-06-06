@@ -120,3 +120,4 @@ Fixed Activity at 2024-06-05T21:33:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-06-05T09:12:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-05T21:19:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-06-06T17:47:00: Optimize: data loading strategy
+Fixed Activity at 2024-06-06T15:08:00: Test: add unit tests for edge cases
