@@ -118,3 +118,4 @@ Fixed Activity at 2024-06-05T20:28:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-06-05T19:46:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-06-05T21:33:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-06-05T09:12:00: Refine: inference logic for edge devices
+Fixed Activity at 2024-06-05T21:19:00: Refactor: simplify data transformation pipeline
