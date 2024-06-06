@@ -114,3 +114,4 @@ Fixed Activity at 2024-06-04T10:58:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-06-04T13:58:00: Style: improve code readability and formatting
 Fixed Activity at 2024-06-04T16:20:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-06-04T13:17:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-06-05T20:28:00: Chore: update dependencies and build scripts
