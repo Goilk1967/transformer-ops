@@ -224,3 +224,4 @@ Fixed Activity at 2024-07-11T13:02:00: Update: internal model parameters
 Fixed Activity at 2024-07-11T09:01:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-07-11T15:31:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-07-12T11:04:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-07-12T15:49:00: Docs: update API documentation and examples
