@@ -276,3 +276,4 @@ Fixed Activity at 2024-07-25T11:01:00: Feature: add support for distributed proc
 Fixed Activity at 2024-07-25T10:56:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-07-26T19:24:00: Improve: logging and monitoring system
 Fixed Activity at 2024-07-26T09:48:00: Style: improve code readability and formatting
+Fixed Activity at 2024-07-26T09:28:00: Fix: resolve memory leak in inference engine
