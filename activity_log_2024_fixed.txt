@@ -327,3 +327,4 @@ Fixed Activity at 2024-08-08T17:11:00: Style: improve code readability and forma
 Fixed Activity at 2024-08-08T14:19:00: Refactor: optimize performance in core module
 Fixed Activity at 2024-08-08T11:02:00: Style: improve code readability and formatting
 Fixed Activity at 2024-08-08T19:41:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2024-08-09T14:39:00: Test: add unit tests for edge cases
