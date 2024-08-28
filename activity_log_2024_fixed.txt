@@ -404,3 +404,4 @@ Fixed Activity at 2024-08-28T12:45:00: Chore: update dependencies and build scri
 Fixed Activity at 2024-08-28T14:55:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-08-28T19:13:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-08-28T12:30:00: Update: internal model parameters
+Fixed Activity at 2024-08-28T18:26:00: Test: add unit tests for edge cases
