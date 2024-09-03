@@ -427,3 +427,4 @@ Fixed Activity at 2024-09-03T10:13:00: Refactor: simplify data transformation pi
 Fixed Activity at 2024-09-03T10:39:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-03T13:24:00: Chore: update dependencies and build scripts
 Fixed Activity at 2024-09-03T17:50:00: Optimize: data loading strategy
+Fixed Activity at 2024-09-03T11:40:00: Docs: update API documentation and examples
