@@ -499,3 +499,4 @@ Fixed Activity at 2024-09-20T21:07:00: Update: internal model parameters
 Fixed Activity at 2024-09-23T12:03:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-23T13:59:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-23T12:30:00: Update: internal model parameters
+Fixed Activity at 2024-09-23T10:09:00: Refine: inference logic for edge devices
