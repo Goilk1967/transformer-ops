@@ -496,3 +496,4 @@ Fixed Activity at 2024-09-19T14:09:00: Style: improve code readability and forma
 Fixed Activity at 2024-09-19T09:41:00: Docs: update API documentation and examples
 Fixed Activity at 2024-09-20T12:04:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2024-09-20T21:07:00: Update: internal model parameters
+Fixed Activity at 2024-09-23T12:03:00: Docs: update API documentation and examples
