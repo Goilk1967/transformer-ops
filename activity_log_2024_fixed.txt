@@ -532,3 +532,4 @@ Fixed Activity at 2024-10-02T09:39:00: Docs: update API documentation and exampl
 Fixed Activity at 2024-10-02T10:36:00: Improve: logging and monitoring system
 Fixed Activity at 2024-10-02T11:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-03T11:54:00: Optimize: data loading strategy
+Fixed Activity at 2024-10-03T09:40:00: Test: add unit tests for edge cases
