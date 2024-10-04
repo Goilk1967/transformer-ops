@@ -534,3 +534,4 @@ Fixed Activity at 2024-10-02T11:34:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-03T11:54:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-03T09:40:00: Test: add unit tests for edge cases
 Fixed Activity at 2024-10-04T18:51:00: Docs: update API documentation and examples
+Fixed Activity at 2024-10-04T18:38:00: Refine: inference logic for edge devices
