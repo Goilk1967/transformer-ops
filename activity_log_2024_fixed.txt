@@ -567,3 +567,4 @@ Fixed Activity at 2024-10-14T21:09:00: Feature: add support for distributed proc
 Fixed Activity at 2024-10-14T10:26:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-15T17:09:00: Feature: add support for distributed processing
 Fixed Activity at 2024-10-15T17:47:00: Optimize: data loading strategy
+Fixed Activity at 2024-10-15T19:26:00: Fix: resolve memory leak in inference engine
