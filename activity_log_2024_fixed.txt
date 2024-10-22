@@ -591,3 +591,4 @@ Fixed Activity at 2024-10-21T11:57:00: Refactor: optimize performance in core mo
 Fixed Activity at 2024-10-21T13:54:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-21T18:24:00: Refine: inference logic for edge devices
 Fixed Activity at 2024-10-21T17:26:00: Refactor: optimize performance in core module
+Fixed Activity at 2024-10-22T14:00:00: Fix: resolve memory leak in inference engine
