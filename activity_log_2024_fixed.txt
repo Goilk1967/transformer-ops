@@ -615,3 +615,4 @@ Fixed Activity at 2024-10-25T14:59:00: Optimize: data loading strategy
 Fixed Activity at 2024-10-25T13:56:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-10-28T12:01:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2024-10-28T17:21:00: Style: improve code readability and formatting
+Fixed Activity at 2024-10-28T13:45:00: Refactor: optimize performance in core module
