@@ -190,3 +190,4 @@ Fixed Activity at 2025-02-25T16:57:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-02-25T10:41:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-02-25T11:46:00: Optimize: data loading strategy
 Fixed Activity at 2025-02-25T12:14:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-02-25T09:29:00: Optimize: data loading strategy
