@@ -281,3 +281,4 @@ Fixed Activity at 2025-03-24T18:21:00: Update: internal model parameters
 Fixed Activity at 2025-03-24T21:02:00: Improve: logging and monitoring system
 Fixed Activity at 2025-03-25T18:40:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-03-25T13:21:00: Optimize: data loading strategy
+Fixed Activity at 2025-03-26T09:13:00: Test: add unit tests for edge cases
