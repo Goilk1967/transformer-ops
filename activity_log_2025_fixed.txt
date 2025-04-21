@@ -357,3 +357,4 @@ Fixed Activity at 2025-04-17T11:52:00: Update: internal model parameters
 Fixed Activity at 2025-04-17T14:35:00: Docs: update API documentation and examples
 Fixed Activity at 2025-04-18T18:52:00: Update: internal model parameters
 Fixed Activity at 2025-04-18T19:42:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-04-21T19:13:00: Chore: update dependencies and build scripts
