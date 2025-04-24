@@ -377,3 +377,4 @@ Fixed Activity at 2025-04-23T16:49:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-04-23T19:07:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-04-23T09:40:00: Update: internal model parameters
 Fixed Activity at 2025-04-23T19:26:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-04-24T11:50:00: Fix: resolve memory leak in inference engine
