@@ -380,3 +380,4 @@ Fixed Activity at 2025-04-23T19:26:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-04-24T11:50:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-04-24T15:38:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-04-25T10:32:00: Update: internal model parameters
+Fixed Activity at 2025-04-25T16:40:00: Test: add unit tests for edge cases
