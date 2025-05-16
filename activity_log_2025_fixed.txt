@@ -436,3 +436,4 @@ Fixed Activity at 2025-05-15T19:35:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-05-15T09:57:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-05-15T20:51:00: Optimize: data loading strategy
 Fixed Activity at 2025-05-15T21:29:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-05-16T16:29:00: Docs: update API documentation and examples
