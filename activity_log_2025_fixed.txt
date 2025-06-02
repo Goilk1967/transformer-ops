@@ -483,3 +483,4 @@ Fixed Activity at 2025-06-02T10:20:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-06-02T20:58:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-02T16:13:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-02T09:54:00: Optimize: data loading strategy
+Fixed Activity at 2025-06-02T16:58:00: Chore: update dependencies and build scripts
