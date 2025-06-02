@@ -479,3 +479,4 @@ Fixed Activity at 2025-05-29T18:26:00: Feature: add support for distributed proc
 Fixed Activity at 2025-05-30T09:09:00: Fix: resolve memory leak in inference engine
 Fixed Activity at 2025-05-30T13:59:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-05-30T16:23:00: Refactor: simplify data transformation pipeline
+Fixed Activity at 2025-06-02T10:20:00: Chore: update dependencies and build scripts
