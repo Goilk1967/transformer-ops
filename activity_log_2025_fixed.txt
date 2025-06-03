@@ -480,3 +480,4 @@ Fixed Activity at 2025-05-30T09:09:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-05-30T13:59:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-05-30T16:23:00: Refactor: simplify data transformation pipeline
 Fixed Activity at 2025-06-02T10:20:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-06-02T20:58:00: Refine: inference logic for edge devices
