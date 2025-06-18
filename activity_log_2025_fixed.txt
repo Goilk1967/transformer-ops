@@ -535,3 +535,4 @@ Fixed Activity at 2025-06-17T21:33:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-06-18T10:19:00: Docs: update API documentation and examples
 Fixed Activity at 2025-06-18T13:15:00: Test: add unit tests for edge cases
 Fixed Activity at 2025-06-18T13:09:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-06-18T18:13:00: Docs: update API documentation and examples
