@@ -548,3 +548,4 @@ Fixed Activity at 2025-06-19T16:38:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-06-19T12:14:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-06-20T10:11:00: Update: internal model parameters
 Fixed Activity at 2025-06-20T19:37:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-06-20T14:48:00: Test: add unit tests for edge cases
