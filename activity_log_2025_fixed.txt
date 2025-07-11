@@ -623,3 +623,4 @@ Fixed Activity at 2025-07-10T11:10:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-07-10T17:46:00: Optimize: data loading strategy
 Fixed Activity at 2025-07-10T12:18:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-07-11T19:23:00: Refactor: optimize performance in core module
+Fixed Activity at 2025-07-11T13:11:00: Refactor: simplify data transformation pipeline
