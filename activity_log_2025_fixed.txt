@@ -723,3 +723,4 @@ Fixed Activity at 2025-08-12T18:18:00: Chore: update dependencies and build scri
 Fixed Activity at 2025-08-12T15:20:00: Docs: update API documentation and examples
 Fixed Activity at 2025-08-13T21:53:00: Refactor: optimize performance in core module
 Fixed Activity at 2025-08-13T14:08:00: Chore: update dependencies and build scripts
+Fixed Activity at 2025-08-14T15:28:00: Test: add unit tests for edge cases
