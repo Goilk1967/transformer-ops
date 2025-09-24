@@ -873,3 +873,4 @@ Fixed Activity at 2025-09-24T09:58:00: Refactor: simplify data transformation pi
 Fixed Activity at 2025-09-24T16:52:00: Docs: update API documentation and examples
 Fixed Activity at 2025-09-24T20:27:00: Chore: update dependencies and build scripts
 Fixed Activity at 2025-09-24T15:06:00: Test: add unit tests for edge cases
+Fixed Activity at 2025-09-24T15:52:00: Refine: inference logic for edge devices
