@@ -947,3 +947,4 @@ Fixed Activity at 2025-10-16T13:53:00: Fix: resolve memory leak in inference eng
 Fixed Activity at 2025-10-16T09:33:00: Update: internal model parameters
 Fixed Activity at 2025-10-16T12:40:00: Refine: inference logic for edge devices
 Fixed Activity at 2025-10-16T11:08:00: Fix: resolve memory leak in inference engine
+Fixed Activity at 2025-10-16T19:00:00: Test: add unit tests for edge cases
