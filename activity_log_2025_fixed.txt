@@ -1007,3 +1007,4 @@ Fixed Activity at 2025-10-30T21:09:00: Optimize: data loading strategy
 Fixed Activity at 2025-10-30T15:24:00: Optimize: data loading strategy
 Fixed Activity at 2025-10-31T09:09:00: Docs: update API documentation and examples
 Fixed Activity at 2025-10-31T09:24:00: Refine: inference logic for edge devices
+Fixed Activity at 2025-10-31T17:43:00: Chore: update dependencies and build scripts
